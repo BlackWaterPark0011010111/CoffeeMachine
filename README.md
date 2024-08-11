@@ -21,6 +21,7 @@ Power Off: Option to turn off the coffee machine.
 
 
 Coffee Types
+
 Espresso: Water - 50ml, Milk - 0ml, Coffee Beans - 18g, Cost - $1.50
 
 Latte: Water - 200ml, Milk - 150ml, Coffee Beans - 24g, Cost - $2.50
