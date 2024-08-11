@@ -22,11 +22,17 @@ Power Off: Option to turn off the coffee machine.
 
 Coffee Types
 Espresso: Water - 50ml, Milk - 0ml, Coffee Beans - 18g, Cost - $1.50
+
 Latte: Water - 200ml, Milk - 150ml, Coffee Beans - 24g, Cost - $2.50
+
 Cappuccino: Water - 250ml, Milk - 100ml, Coffee Beans - 24g, Cost - $3.00
+
 Americano: Water - 150ml, Milk - 0ml, Coffee Beans - 18g, Cost - $2.00
+
 Macchiato: Water - 100ml, Milk - 50ml, Coffee Beans - 20g, Cost - $2.70
-Usage
+
+
+## Usage
 ### Run the Program:
 
 ![frst](https://github.com/BlackWaterPark0011010111/CoffeeMachine/blob/main/ASSETS/MENU.png)
