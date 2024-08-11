@@ -20,11 +20,11 @@ Americano: Water - 150ml, Milk - 0ml, Coffee Beans - 18g, Cost - $2.00
 Macchiato: Water - 100ml, Milk - 50ml, Coffee Beans - 20g, Cost - $2.70
 Usage
 Run the Program:
-![https://github.com/BlackWaterPark0011010111/CoffeeMachine/blob/main/ASSETS/MENU.png]
+![frst](https://github.com/BlackWaterPark0011010111/CoffeeMachine/blob/main/ASSETS/MENU.png)
 
 Execute the script to start the coffee machine simulation.
 Select an Action:
-![https://github.com/BlackWaterPark0011010111/CoffeeMachine/blob/main/ASSETS/chose%20coffee.png]
+![scnd](https://github.com/BlackWaterPark0011010111/CoffeeMachine/blob/main/ASSETS/chose%20coffee.png)
 
 Choose from the menu to make coffee, view the report, or turn off the machine.
 Insert Coins:
@@ -34,6 +34,6 @@ Enjoy Your Coffee:
 
 The machine will deduct the necessary resources and serve your selected coffee.
 Check Reports:
-![https://github.com/BlackWaterPark0011010111/CoffeeMachine/blob/main/ASSETS/report.png]
+![thrd](https://github.com/BlackWaterPark0011010111/CoffeeMachine/blob/main/ASSETS/report.png)
 
 At any time, request a report to view the current status of resources and funds.
