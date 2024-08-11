@@ -1,32 +1,39 @@
-# CoffeeMachine
+### CoffeeMachine
 
 
-This is a simulation of a coffee machine using Python. The application allows users to select various
-types of coffee, tracks the resources required to make each type, and alerts users when resources need to be replenished.
-
-The Coffee Machine application lets users simulate the operation of a coffee machine. It supports creating, 
-editing, and deleting coffee recipes. It includes user authentication and an admin panel for managing content.
+CoffeeMachine is a Python-based simulation of a coffee machine that allows users to select from various coffee types, manage resources, and handle transactions. The program tracks ingredient levels, processes payments, and serves coffee based on user input.
 
 
-Follow the on-screen instructions to select coffee options, view the report, or turn off the machine.
+### Features
+Coffee Selection: Choose from five different types of coffee: Espresso, Latte, Cappuccino, Americano, and Macchiato.
+![https://github.com/BlackWaterPark0011010111/CoffeeMachine/blob/main/ASSETS/MENU.png]
+Resource Management: Automatically checks and updates water, milk, and coffee bean levels.
+Transaction Handling: Accepts and processes payments, providing change if necessary.
+Report Generation: Displays the current status of water, milk, coffee beans, and money.
+Alerts: Warns when resources are running low.
+Power Off: Option to turn off the coffee machine.
+Coffee Types
+Espresso: Water - 50ml, Milk - 0ml, Coffee Beans - 18g, Cost - $1.50
+Latte: Water - 200ml, Milk - 150ml, Coffee Beans - 24g, Cost - $2.50
+Cappuccino: Water - 250ml, Milk - 100ml, Coffee Beans - 24g, Cost - $3.00
+Americano: Water - 150ml, Milk - 0ml, Coffee Beans - 18g, Cost - $2.00
+Macchiato: Water - 100ml, Milk - 50ml, Coffee Beans - 20g, Cost - $2.70
+Usage
+Run the Program:
+![https://github.com/BlackWaterPark0011010111/CoffeeMachine/blob/main/ASSETS/MENU.png]
 
-## Main Structure
+Execute the script to start the coffee machine simulation.
+Select an Action:
+![https://github.com/BlackWaterPark0011010111/CoffeeMachine/blob/main/ASSETS/chose%20coffee.png]
 
-- `coffee.py`: Main script to run the coffee machine simulation.
-- `README.md`: This readme file.
+Choose from the menu to make coffee, view the report, or turn off the machine.
+Insert Coins:
 
+When prompted, input the total amount of money you’re inserting.
+Enjoy Your Coffee:
 
-You can set the following environment variables to configure the coffee machine:
+The machine will deduct the necessary resources and serve your selected coffee.
+Check Reports:
+![https://github.com/BlackWaterPark0011010111/CoffeeMachine/blob/main/ASSETS/report.png]
 
-- `WATER`: Initial amount of water (in ml).
-- `MILK`: Initial amount of milk (in ml).
-- `COFFEE_BEANS`: Initial amount of coffee beans (in grams).
-- `MONEY`: Initial amount of money (in dollars).
-
-Create a `.env` file in the root directory and add the following content:
-
-```plaintext
-WATER=1000
-MILK=500
-COFFEE_BEANS=200
-MONEY=0
+At any time, request a report to view the current status of resources and funds.
